@@ -27,3 +27,7 @@ In this project, I used Cryptocurrency data. After normalizing the data, I found
 * TensorFlow
 * MatPlotlib
 * Pandas
+
+## Sources
+* https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/
+* https://www.cdc.gov/brfss/data_documentation/index.htm
